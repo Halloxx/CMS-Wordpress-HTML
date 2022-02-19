@@ -26,3 +26,54 @@
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+/* PARTIE CSS */
+
+
+a.bouton2 {
+    padding: 15px 35px;
+    margin-left: 80%;
+    display: flex;
+    background: #46a28d;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 18px;
+    }
+    a.bouton2:hover {
+    background: #570906;
+    color: #5EB6DD;
+    }
+
+    a.bouton3 {
+        padding: 15px 35px;
+        margin-left: 91%;
+        background: #46a28d;
+        color: #FFFFFF;
+        font-weight: bold;
+        font-size: 18px;
+        display: flex;
+        }
+        a.bouton3:hover {
+        background: #570906;
+        color: #5EB6DD;
+        }
+
+    .bouton2 {
+        padding-bottom: 50px;
+    }
+
+        .connexion{
+            text-align: center;
+            margin-top: 250px;
+            text-shadow: #46a28d;
+            font-size: 50px;
+            color: #46a28d;
+        }
